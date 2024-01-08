@@ -1,0 +1,15 @@
+[package]
+name = "rusty-rsa"
+version = "0.1.0"
+edition = "2021"
+authors = ["Emirhan TALA <emirhantala99ff99@gmail.com>"]
+description = "A basicass rsa algorithm implementation."
+license = "Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/Emivvvvv/rusty-rsa"
+
+[dependencies]
+glass_pumpkin = "1.6.0"
+num-bigint = "0.4.4"
+thiserror = "1.0.56"
+num = "0.4.1"
